@@ -18,7 +18,7 @@ after that download the appimage and it should run u can use gear lever to add i
 
 also it already working on the preset that i personally like u can change it 
 
-however it requires some dependencies i use fedora so here is how to install it if i didn't manage to bundle it with the appimage ``sudo dnf install python3 qt6-qtbase qt6-qtsvg qt6-qtbase-devel``
+however it requires some dependencies i use fedora so here is how to install it if i didn't manage to bundle it with the appimage ``sudo dnf install python3 qt6-qtbase qt6-qtsvg qt6-qtbase-devel pyusb``
 
 <img width="492" height="425" alt="image" src="https://github.com/user-attachments/assets/6d957052-1706-4429-93e1-e3dc20ff78e0" />
 
